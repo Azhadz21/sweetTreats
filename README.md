@@ -64,19 +64,26 @@
         <div class="cake-item">
             <img src="../../../Users/User/Documents/Unnamed Site 2/WhatsApp Image 2025-03-22 at 2.32.45 PM.jpeg" alt="Choc Moist w/ Choc Topping + Dark Choc Flakes">
             <p>Pandan with Topping</p>
-      </div>
-        <div class="cake-item">
-            <img src="../../../Users/User/Documents/Unnamed Site 2/chco moist.jpg" alt="Choc Moist w/ Choc Topping + Strawberry">
-            <p>Choc Moist w/ Choc Topping</p>
-        </div>
-        <div class="cake-item">
-            <img src="../../../Users/User/Documents/Unnamed Site 2/kuih Lapis.jpg" alt="Red Velvet w/ Cream Cheese Topping + Dark Choc Flakes">
-            <p>Kek Lapis Rainbow :) </p>
-        </div>
-        <div class="cake-item">
-            <img src="../../../Users/User/Documents/Unnamed Site 2/rv.jpg" alt="Red Velvet w/ Choc Topping">
-            <p>Red Velvet w/ Choc Topping        </p>
-      </div>
+      <div class="cake-item">
+    <img src="images/pandan.jpeg" alt="Pandan with Topping">
+    <p>Pandan with Topping</p>
+</div>
+
+<div class="cake-item">
+    <img src="images/choc_moist.jpg" alt="Choc Moist w/ Choc Topping">
+    <p>Choc Moist w/ Choc Topping</p>
+</div>
+
+<div class="cake-item">
+    <img src="images/kek_lapis.jpg" alt="Kek Lapis Rainbow">
+    <p>Kek Lapis Rainbow :)</p>
+</div>
+
+<div class="cake-item">
+    <img src="images/red_velvet.jpg" alt="Red Velvet">
+    <p>Red Velvet w/ Choc Topping</p>
+</div>
+
         <h2>Order Sizes</h2>
         <div class="order-section">
             <p>Mini (14pcs)</p>
