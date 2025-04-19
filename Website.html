@@ -85,7 +85,6 @@
             <p>5-inch Cake (Any Quantity)</p>
             <a href="https://www.facebook.com/profile.php?id=61574507752791" class="order-button" target="_blank">Order on Facebook</a>
             <a href="https://www.instagram.com/sweettreats.my/" class="order-button" target="_blank">Order on Instagram</a>
-        </div>
     </div>
 </body>
 </html>
