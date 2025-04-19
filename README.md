@@ -59,9 +59,6 @@
     <header>Sweet Treats.MY</header>
     <div class="container">
         <h2>Our Menu</h2>
-        <div class="cake-item">
-            <img src="../../../Users/User/Documents/Unnamed Site 2/WhatsApp Image 2025-03-22 at 2.32.45 PM.jpeg" alt="Choc Moist w/ Choc Topping + Dark Choc Flakes">
-            <p>Pandan with Topping</p>
       </div>
         <div class="cake-item">
     <img src="images/pandan.jpeg" alt="Pandan with Topping">
